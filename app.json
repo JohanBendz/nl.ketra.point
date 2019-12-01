@@ -1,7 +1,7 @@
 {
   "id": "com.ketra.point",
-  "version": "0.2.2",
-  "compatibility": ">=1.5.0",
+  "version": "0.2.3",
+  "compatibility": ">=3.0.0",
   "sdk": 2,
   "name": {
     "en": "Minut point"
